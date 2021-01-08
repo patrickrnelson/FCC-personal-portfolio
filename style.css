@@ -12,6 +12,7 @@ body {
   justify-content: space-around;
   align-items: center;
   flex-direction: column;
+  background-color: rgb(242, 242, 242)
 }
 
 #welcome-section {
